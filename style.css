@@ -2,6 +2,9 @@ body{
     background: lightcoral;
 }
 
+header{
+    background: #1f1f1f;
+}
 h1{
     font-size: 3rem;
     text-align: center;
