@@ -1,0 +1,5 @@
+# ignore tous les fichiers avec extension "txt"
+*.txt
+
+# ignore tous les fichiers dans les dossiers temps
+temp/
